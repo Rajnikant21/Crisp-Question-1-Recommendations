@@ -1,2 +1,2 @@
-# Crisp-Question-1-Recommendations
+# Crisp-Questions-Recommendations
 Recommendations And Solutions for CRISP Problem Statements
